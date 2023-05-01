@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Practico 5\TP8\TP8\obj\Debug\TP8.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Practico 5\TP8\TP8\obj\Debug\TP8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Practico 5\TP8\TP8\obj\Debug\TP8.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practico 5\TP8\TP8\bin\Debug\TP8.exe.config
+C:\Users\Usuario\Desktop\Practico 5\TP8\TP8\bin\Debug\TP8.exe
+C:\Users\Usuario\Desktop\Practico 5\TP8\TP8\bin\Debug\TP8.pdb
+C:\Users\Usuario\Desktop\Practico 5\TP8\TP8\obj\Debug\TP8.exe
+C:\Users\Usuario\Desktop\Practico 5\TP8\TP8\obj\Debug\TP8.pdb
